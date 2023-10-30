@@ -7,4 +7,4 @@ This check the strength of the password
 3. Javascript
 
 # Follow me on
-Twitter -(@fred_chizim)[https://www.twitter.com/fred_chizim]
+Twitter -[@fred_chizim](https://www.twitter.com/fred_chizim)
